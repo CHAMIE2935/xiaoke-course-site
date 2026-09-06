@@ -11,12 +11,12 @@
       <a href="<?= url('user.php') ?>">我的学习</a>
     </div>
     <p class="footer-copy">
-    <a href="https://github.com/CHAMIE2935" target="_blank">
+    <a href="https://github.com/CHAMIE2935/xiaoke-course-site/tree/main" target="_blank">
     © <?= date('Y') ?> <?= e($GLOBALS['config']['site']['name'] ?? '小课学堂') ?>
 </a>
 &nbsp;|&nbsp;
-<a href="https://github.com/CHAMIE2935" target="_blank">
-    网站源码
+<a href="https://github.com/CHAMIE2935/xiaoke-course-site/tree/main" target="_blank">
+    友情链接
 </a>
 
 </p>
