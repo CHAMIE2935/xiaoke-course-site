@@ -144,7 +144,7 @@ function h($s) { return htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8'); }
 <body>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-    alert('本文件只在GitHub上开源，如您在其他网站下载，请联系客服QQ2935609989');
+    alert('本文件只在GitHub上开源，如您在其他网站下载，联系yinluchuanmei@foxmail.com有奖');
 });
 </script>
 
